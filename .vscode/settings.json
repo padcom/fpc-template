@@ -1,0 +1,5 @@
+{
+  "omnipascal.freePascalSourcePath": "/usr/share/fpcsrc/default",
+  "omnipascal.defaultDevelopmentEnvironment": "FreePascal",
+  "omnipascal.symbolIndex": "workspace",
+}
